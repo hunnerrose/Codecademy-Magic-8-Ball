@@ -1,0 +1,38 @@
+body {
+    background-color:blueviolet;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+div {
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+.eightBall {
+    height: 300px;
+    width: 300px;
+}
+
+#form > * {
+    margin: 5px;
+}
+
+#question {
+    width: 200px;
+}
+
+input::placeholder {
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+}
+
+button {
+    background-color:rgb(42, 165, 163);
+}
